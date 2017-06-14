@@ -2,7 +2,7 @@
 
 [Original answered](https://news.ycombinator.com/item?id=13516780) by [THOMAS H. PTACEK - world class security expert](https://news.ycombinator.com/user?id=tptacek) on 30 Jan 2017.
 
-For question: [Ask HN: Online Security Tips for Newbie Freedom Activists?](https://news.ycombinator.com/item?id=13516116)
+For the question: [Ask HN: Online Security Tips for Newbie Freedom Activists?](https://news.ycombinator.com/item?id=13516116)
 
 ---
 
